@@ -1,6 +1,6 @@
-import NonFungibleToken from "../../../cadence/contracts/NonFungibleToken.cdc"
-import ExampleNFT from "../../../cadence/contracts/ExampleNFT.cdc"
-import MetadataViews from "../../../cadence/contracts/MetadataViews.cdc"
+import NonFungibleToken from "NonFungibleToken"
+import ExampleNFT from "ExampleNFT"
+import MetadataViews from "MetadataViews"
 
 
 transaction(recipient: Address) {

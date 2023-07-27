@@ -1,5 +1,5 @@
-import FungibleToken from "../../../cadence/contracts/FungibleToken.cdc"
-import ExampleToken from "../../../cadence/contracts/ExampleToken.cdc"
+import FungibleToken from "FungibleToken"
+import ExampleToken from "ExampleToken"
 
 transaction {
 

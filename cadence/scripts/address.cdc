@@ -1,4 +1,4 @@
-import AddressUtils from "../contracts/AddressUtils.cdc"
+import AddressUtils from "AddressUtils"
 pub fun main(){
 
     log(AddressUtils.currentNetwork())

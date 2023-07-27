@@ -1,4 +1,4 @@
-import ExampleToken from "../../../cadence/contracts/ExampleToken.cdc"
+import ExampleToken from "ExampleToken"
 
 transaction {
     prepare(acct: AuthAccount) {

@@ -1,4 +1,4 @@
-import FungibleToken from "./FungibleToken.cdc"
+import FungibleToken from "FungibleToken"
 
 pub contract ExampleToken: FungibleToken {
     pub let ReceiverPath: PublicPath
